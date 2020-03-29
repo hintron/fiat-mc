@@ -1,0 +1,8 @@
+name: Fiat-MC
+main: com.github.fiatmc.FiatMcPlugin
+version: 0.1
+author: hintron
+commands:
+  protect:
+    description: Protects the current chunk from explosions and breakage from anyone but you
+    usage: "Usage: '/protect' to protect the chunk you are currently in"
